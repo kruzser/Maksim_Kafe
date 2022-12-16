@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+main h1 {
+color: rgb(0, 255, 170);
+
+}
+.logo {
+
+border: 3px solid rgba(180, 117, 0, 0.877);
+
+}
+
+body {
+background-color: rgb(132, 161, 170);
+}
+ footer {
+     color: rgb(6, 2, 56);
+
+ }
+
+ a {
+
+color: rgb(0, 0, 0);
+
+ }
+ i {
+
+color: darkturquoise;
+
+ }
+
+
+main img {
+border: 3px solid rgba(255, 152, 67, 0.493);
+}
+
+footer {
+background-color: rgb(71, 122, 138);
+
+}
+
+ .logo {
+     font-size: centr;
+
+
+}
